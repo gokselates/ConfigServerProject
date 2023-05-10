@@ -9,7 +9,7 @@ spring:
         git:
           uri: https://github.com/gokselates/ConfigServerProject
     profiles:
-      active: native
+      active: development
 management:
   security:
     enabled: false
